@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">All Shoes shop</string>
+    <string name="name">Airforce1</string>
+    <string name="dee">Airforce2</string>
+    <string name="da">Airforce5</string>
+    <string name="dod">loafer</string>
+    <string name="ma">Heel</string>
+    <string name="deee">Choose Your type</string>
+    <string name="daaaaaa">Shoes for ladies</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_gents">Gents</string>
+    <string name="title_activity_ladies">Ladies</string>
+    <string name="title_activity_children">Children</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926268664329",
+    "project_id": "all-shoes-shop",
+    "storage_bucket": "all-shoes-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926268664329:android:895de3131973d9877da6d8",
+        "android_client_info": {
+          "package_name": "com.example.allshoesshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJt2CXqjn5-p06kt15kJNSDfIwDMqxbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
